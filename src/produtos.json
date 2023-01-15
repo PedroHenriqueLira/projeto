@@ -1,0 +1,101 @@
+
+[
+    
+        
+            {
+            "id":1,
+            "nome":"Onibus Espacial",
+            "imagem":"https://i.imgur.com/TTq7QyH.png",
+            "valor":399.99,
+            "material":"Material: Metal e Plástico"
+        },
+        {
+            "id":2,
+            "nome":"Buzz Lightyear",
+            "imagem":"https://i.imgur.com/wol7ns3.png",
+            "valor":499.99,
+            "material":"Material: Vinil"
+        },
+        {
+            "id":3,
+            "nome":"Astronauta",
+            "imagem":"https://i.imgur.com/wmU2rWd.png",
+            "valor":100.99,
+            "material":"Material: Resina"
+        },
+        {
+            "id":4,
+            "nome":"Darth Vader",
+            "imagem":"https://i.imgur.com/0HbD2I9.png",
+            "valor":82.33,
+            "material":"Material: Plástico"
+        },
+        {
+            "id":5,
+            "nome":"Baby Yoda",
+            "imagem":"https://i.imgur.com/UcqnJb0.png",
+            "valor":699.99,
+            "material":"Material: Plástico"
+        },
+        {
+            "id":6,
+            "nome":"Luke Skywalker ",
+            "imagem":"https://i.imgur.com/yn8ZyY3.png",
+            "valor":854.30,
+            "material":"Material: Plástico"
+        },
+        {
+            "id":7,
+            "nome":"Carro Espacial",
+            "imagem":"https://i.imgur.com/ZoXib1A.png",
+            "valor":95.50,
+            "material":"Material: Plástico"
+        },
+        {
+            "id":8,
+            "nome":"Obi-Wan Kenobi",
+            "imagem":"https://i.imgur.com/wU9jFIj.png",
+            "valor":299.99,
+            "material":"Material: Plástico"
+             
+        },
+        {
+            "id":9,
+            "nome":"Millenium Falcon",
+            "imagem":"https://i.imgur.com/ZgZWKBd.png",
+            "valor":649.90,
+            "material":"Material: Plástico"
+        },
+        {
+            "id":10,
+            "nome":"Star Wars Micro Galaxy",
+            "imagem":"https://i.imgur.com/1lwJDfM.png",
+            "valor":449.90,
+            "material":"Material: Plástico"
+        },
+        {
+            "id":11,
+            "nome":"Stitch In Rocket Original",
+            "imagem":"https://i.imgur.com/UADNsZ2.png",
+            "valor":415.30,
+            "material":"Material: Plástico"
+        }
+        ,
+        {
+            "id":12,
+            "nome":"Planetário",
+            "imagem":"https://i.imgur.com/8mRpCXO.png",
+            "valor":497.94,
+            "material":"Material: Plástico"
+        }
+]
+
+    
+
+
+
+
+
+
+
+
