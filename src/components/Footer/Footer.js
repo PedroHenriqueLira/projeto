@@ -22,7 +22,7 @@ export default function Footer() {
         <img src="https://i.imgur.com/9bNPWdB.png"/>
             </a>
           
-            <a href="https://www.google.com.br/"  target="_blank">
+            <a href="https://few-snake.surge.sh/"  target="_blank">
         <img src="https://i.imgur.com/17A7j3O.png" />
             </a>
 
